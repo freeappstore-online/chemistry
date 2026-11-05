@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/equationbalancer.tsx","./src/components/molarmasscalculator.tsx","./src/components/moleculeview.tsx","./src/components/reactionexplorer.tsx","./src/data/elements.ts","./src/data/reactions.ts","./src/lib/balancer.ts","./src/lib/molar-mass.ts","./src/lib/parser.ts"],"version":"5.9.3"}
