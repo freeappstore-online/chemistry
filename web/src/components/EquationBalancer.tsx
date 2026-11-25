@@ -79,7 +79,7 @@ export default function EquationBalancer({ initialEquation }: Props) {
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
             placeholder="e.g. Fe + O2 -> Fe2O3"
-            className="flex-1 rounded-xl px-4 py-3 text-lg font-mono outline-none transition-all"
+            className="flex-1 min-w-0 rounded-xl px-4 py-3 text-lg font-mono outline-none transition-all"
             style={{
               background: "var(--panel)",
               color: "var(--ink)",
